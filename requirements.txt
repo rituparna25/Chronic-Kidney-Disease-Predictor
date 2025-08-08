@@ -5,4 +5,4 @@ seaborn
 plotly
 scikit-learn
 xgboost
-pickle
+streamlit
